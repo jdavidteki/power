@@ -1,1 +1,3 @@
 # power
+
+**emotion as code
